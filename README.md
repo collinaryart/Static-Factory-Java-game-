@@ -8,7 +8,7 @@ You (represented by @ on the game map) start the mission inside your spaceship, 
 # Foes
 Also on Polymorphia are several craters (u) from which enemies spawn; there are Suspicious Astronauts (ඞ) and Huntsman spiders (8), as well as the harmless, scrap-stealing Alien Bugs (a). Should the Suspicious Astronaut enter within one exit of you, you'll be killed instantly. Against other creatures though, your weapons include your fists and the metal pipe (!) scrap. Also of interest are puddles of water (~) — drinking from these increases your max health. The Jar of Pickles (n) scrap, on the other hand, has a 50-50 chance of healing or harming you, depending on its expiry date.
 
-# Weapons & tech
+# Weapons & Tech
 The Pot of Gold ($) scrap, meanwhile, increases your spending power, which you'll need if you're to purchase the following items from the ship's Computer Terminal (=):
 
 - Astley, an AI device (z) that plays unlockable song lyrics.
