@@ -25,3 +25,6 @@ The moon has plants known as "Inheritrees”, which start off as saplings (t) pr
 # Game Maps
 
 The Computer Terminal can take you to Polymorphia's sister moon Refactorio (home to differently-behaved Inheritrees), or to the factory's spaceship parking lot. There, you'll be greeted by a humanoid figure (H) who'll buy your scraps off you.
+
+# Acknowledgements
+Many thanks to my project mates Aleena Elizabeth and Jia Lin Wang, as well as to the Monash Faculty of IT for providing the code in the demo & engine folders.
